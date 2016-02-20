@@ -38,8 +38,8 @@ var randomArray = function(length) {
 
 ### Resources:
 Your probably best off making your own data set to start but here's some stuff:
-[list of open data sets](https://github.com/caesar0301/awesome-public-datasets)
-[data.gov](https://www.data.gov/)
-[City of Boston](https://data.cityofboston.gov/)
-[city of somerville](https://data.somervillema.gov/)
-[MBTA api](http://realtime.mbta.com/portal) you might need an api key or want to just copy/paste this out.
+- [list of open data sets](https://github.com/caesar0301/awesome-public-datasets)
+- [data.gov](https://www.data.gov/)
+- [City of Boston](https://data.cityofboston.gov/)
+- [city of somerville](https://data.somervillema.gov/)
+- [MBTA api](http://realtime.mbta.com/portal) you might need an api key or want to just copy/paste this out.
