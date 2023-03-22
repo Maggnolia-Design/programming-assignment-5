@@ -1,3 +1,5 @@
+Infographic for Programming Basics Assignment 5 (NEU 2014)
+
 # Infographic
 
 ### Inforgraphic Homework:
